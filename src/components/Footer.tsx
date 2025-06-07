@@ -30,7 +30,7 @@ export const Footer = () => {
             </div>
             <div>
               <span className="text-xl font-bold text-white">Kunchala Venkata Madhu</span>
-              <p className="text-gray-400 text-sm">Full Stack Developer & AI Enthusiast</p>
+              <p className="text-gray-400 text-sm">Full Stack Developer & UI/UX Design Enthusiast</p>
             </div>
           </div>
 
@@ -65,7 +65,7 @@ export const Footer = () => {
           <p className="text-gray-500 text-xs flex items-center justify-center space-x-1">
             <span>Built with</span>
             <Heart className="w-3 h-3 text-red-400 animate-pulse" />
-            <span>using React, TypeScript & AI-powered creativity</span>
+            <span>using React, TypeScript </span>
           </p>
           <div className="mt-4">
             <p className="text-purple-400 text-sm font-medium italic">

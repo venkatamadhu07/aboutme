@@ -8,7 +8,7 @@ export const EducationSection = () => {
       degree: "Bachelor of Technology in Electronics and Communication(Specialization in Data Science and Big Data Analyitcs)",
       institution: "KL University",
       year: "2023 - 2026",
-      gpa: "9.37/10.9",
+      gpa: "9.37/10.0",
       description: "Specialized in Software Engineering and Machine Learning",
       icon: <GraduationCap className="w-6 h-6" />
     },
