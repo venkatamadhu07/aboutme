@@ -16,7 +16,7 @@ export const EducationSection = () => {
       degree: "Diploma",
       institution: "Bapatla Engineering College",
       year: "2020 - 2023",
-      percentage: "85%",
+      percentage: "85",
       description: "Advanced studies in Distributed Systems and Machine Learning",
       icon: <Award className="w-6 h-6" />
     }
